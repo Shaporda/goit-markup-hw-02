@@ -1,0 +1,270 @@
+body {
+    font-family: "Roboto", "Raleway", sans-serif;
+    font-family: sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+#logo{
+    color: #4d5ae5;
+}
+
+#logo-black {
+    color: #2e2f42;
+}
+
+.logo{
+    color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+}
+
+span {
+    color: #2e2f42;
+}
+
+.logo-web-black {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e2f42;
+}
+
+nav {
+    color: #2e2f42;
+}
+
+#address {
+    color: #434455;
+}
+
+.nav-element {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.nav-link {
+    color: #2e2f42;
+}
+
+.nav-link:focus {
+    color: #404bbf;
+}
+
+.nav-link:hover {
+    color: #404bbf;
+}
+
+address {
+    font-style: normal;
+    color: #434455;
+}
+
+.address-element {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    font-family: "Roboto", sans-serif;
+}
+
+#mail {
+    color: #434455;
+}
+
+#mail:hover {
+    color: #404bbf;
+}
+
+#mail:focus {
+    color: #404bbf;
+}
+
+#telefon {
+    color: #434455;
+}
+
+#telefon:hover {
+    color: #404bbf;
+}
+
+#telefon:focus {
+    color: #404bbf;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:active {
+    color: #2e2f42;
+}
+
+a:visited {
+    color: #2e2f42;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.main-section {
+    background-color: #2e2f42;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+
+button:hover {
+    background-color: #404BBF;
+}
+
+button:focus {
+    background-color: #404BBF;
+}
+
+button {
+    background-color: #4d5ae5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+}
+
+.main-button {
+    font-family: "Roboto", sans-serif;
+    cursor: pointer;
+}
+
+.option-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455
+}
+
+.team {
+    background-color: #f4f4fd;
+}
+
+#team-block {
+    background-color: #FFFFFF;
+}
+
+.team-row-block {
+    background-color: #FFFFFF;
+}
+
+.team-title-main {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.team-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.team-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    text-align: center;
+    color: #2e2f42;
+    ;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.portfolio-title {
+    line-height: 1.11;
+}
+
+.container {
+    flex-wrap: wrap;
+}
+
+.container-item {
+    flex-basis: 30%;
+    background-color: #fff;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.container-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.container-title {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+footer {
+    background-color: #2e2f42;
+}
+
+#footer-logo {
+    color: #4d5ae5;
+}
+
+.logo-web-white {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd;
+}
+
+.footer-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
